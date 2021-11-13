@@ -1,2 +1,2 @@
-# iangrinkevich.github.io
+# Ян Гринкевич
 Первый сайт
